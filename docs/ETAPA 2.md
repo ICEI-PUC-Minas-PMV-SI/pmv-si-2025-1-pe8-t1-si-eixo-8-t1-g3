@@ -84,4 +84,12 @@ Além disso, é avaliada a disponibilidade e a confiabilidade dessas fontes, fac
 
 **Fonte:** Os Autores, 2025
 
+Com a análise dessas informações espera-se entender padrões de evasão e/ou retenção de alunos, identificando fatores como por exemplo:
+- Impacto do professor na permanência dos alunos;
+- Influência do horário das aulas na evasão;
+- Influência da faixa etária com a permanência no curso;
+- Correlação entre escolha do instrumento e continuidade do curso;
+- Estratégias para fidelização e retenção de alunos em períodos críticos.
+
+
 ---
