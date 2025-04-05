@@ -82,26 +82,24 @@ A partir do mapeamento acima, foram priorizadas as informações mais relevantes
 - Dados financeiros (inadimplência, promoções e descontos oferecidos);
 - Uso de funcionalidades do sistema Emusys.
 
-## 2.3 Fontes de Informação
+### 2.2.3 Fontes de Informação
 
-### 2.3.1 Fontes Internas
+**Fontes Internas**
 
 As informações necessárias serão obtidas a partir das seguintes fontes internas:
-
 - Relatórios extraídos do sistema Emusys (formato Excel);
 - Dados sobre os alunos nos últimos dois anos (status: em andamento, concluído, interrompido);
 - Informações sobre cursos, professores, horários e frequência.
 
-### 2.3.2 Funcionalidades do Emusys Não Utilizadas
+**Funcionalidades do Emusys Não Utilizadas**
 
 Apesar de a escola utilizar o sistema Emusys, algumas funcionalidades que poderiam auxiliar na retenção e análise de dados ainda não são exploradas:
-
 - Relatórios avançados e personalizados;
 - Controle de presença por QR Code ou biometria;
 - Envio de lembretes automáticos via SMS ou notificações;
 - Integração financeira para controle de pagamentos recorrentes.
 
-### 2.3.3 Relatório
+**Relatório**
 
 Neste tópico, são relacionadas as necessidades de informação vinculadas aos KIQs (Key Intelligence Questions), com o intuito de orientar a coleta estruturada de dados. Para cada necessidade, são indicadas possíveis fontes de dados, internas ou externas, classificadas conforme sua natureza (operacional, mercadológica, concorrencial, regulatória, entre outras).
 
@@ -130,6 +128,59 @@ Com a análise dessas informações espera-se entender padrões de evasão e/ou 
 - Influência da faixa etária com a permanência no curso;
 - Correlação entre escolha do instrumento e continuidade do curso;
 - Estratégias para fidelização e retenção de alunos em períodos críticos.
+
+## 2.3 Planejamento da Coleta e Armazenamento de Dados
+
+### 2.3.1 Fontes de Coleta de Dados
+
+A principal fonte de dados será a plataforma **Emusys**, que contém informações sobre:
+- Alunos  
+- Cursos  
+- Matrículas  
+- Professores  
+- Horários  
+- Outras informações acadêmicas relevantes  
+
+Devido à limitação da plataforma, que não oferece integração via API ou webhook, a coleta será realizada manualmente por um funcionário.
+
+### 2.3.2 Métodos de Coleta de Dados
+
+Os dados serão extraídos periodicamente da plataforma Emusys por meio da funcionalidade de exportação de relatórios. O funcionário responsável deverá seguir as seguintes etapas:
+
+1. Acessar a plataforma Emusys.  
+2. Navegar até a seção de relatórios e exportar os dados relevantes.  
+3. Salvar os arquivos em formato Excel.  
+4. Armazenar os arquivos em um repositório padronizado (OneDrive, Google Drive, SharePoint, etc.).  
+5. Atualizar a base de dados conectada ao Power BI.  
+
+### 2.3.3 Plano de Coleta Estruturado
+
+**Papéis e Responsabilidades:**
+- **Responsável pela coleta:** Funcionário designado para extrair os dados periodicamente e garantir a integridade das informações.  
+- **Responsável pela análise:** Profissional que utilizará o Power BI para gerar dashboards e relatórios.  
+
+**Ponto(s) de Coleta:**
+- **Local:** Plataforma Emusys  
+- **Formato dos arquivos:** Excel  
+- **Local de armazenamento:** Google Drive / SharePoint / Servidor interno  
+
+**Periodicidade da Coleta:**
+- **Frequência recomendada:** Mensal  
+- **Horário ideal:** Fim do dia em horário comercial  
+- **Responsável:** Equipe administrativa  
+
+### 2.3.4 Estratégia de Armazenamento de Dados
+
+**Ferramentas Utilizadas:**
+- **Power BI:** Para visualização e análise dos dados coletados.  
+- **Google Drive / SharePoint:** Para armazenamento seguro e compartilhamento dos arquivos de dados.  
+
+**Métodos de Organização e Classificação dos Dados:**
+- Criação de padrões de nomenclatura para os arquivos (ex: `dados_matriculas_YYYY-MM-DD.xlsx`).  
+- Validação dos dados após a exportação para garantir a consistência.  
+- Backup regular dos arquivos armazenados.  
+
+Com esse plano, garantimos a coleta eficiente, segurança e integridade dos dados, facilitando a análise no Power BI e contribuindo para a tomada de decisão baseada em dados.
 
 ## 2.7 - Compliance de TI e Segurança da Informação
 
