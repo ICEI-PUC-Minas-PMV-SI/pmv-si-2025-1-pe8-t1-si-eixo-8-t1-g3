@@ -26,6 +26,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 | ETAPA    | ATIVIDADE    |
 |----------|--------------|
-| Etapa 1  |    [Etapa 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%201.md)   | 
-| Etapa 2  |              |
+| Etapa 1  |    [Apresentação do Projeto ](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%201.md)   | 
+| Etapa 2  |   [Plano de Inteligência Competitiva](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%202.md   )           |
 
