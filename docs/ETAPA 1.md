@@ -94,7 +94,7 @@ _INSERIR FIGURA_
 5. **Documentação**: O sistema pode solicitar o upload de documentos necessários, como RG, comprovante de residência, histórico escolar, entre outros.  
 6. **Finalização do cadastro**: Após o preenchimento de todos os campos obrigatórios e o envio dos documentos necessários, o usuário revisa as informações e confirma o cadastro do aluno no sistema.
 
----
+
 
 #### b) Cadastrar professor:
 
@@ -105,7 +105,7 @@ _INSERIR FIGURA_
 5. **Configuração de horários e turmas**: Define-se a carga horária do professor, as turmas e disciplinas que serão atribuídas a ele, bem como os horários das aulas.  
 6. **Finalização do cadastro**: Após o preenchimento de todos os campos obrigatórios e o envio dos documentos necessários, o usuário revisa as informações e confirma o cadastro do professor no sistema.
 
----
+
 
 #### c) Cadastrar lead:
 
@@ -116,7 +116,7 @@ _INSERIR FIGURA_
 5. **Atribuição a um responsável**: O lead pode ser atribuído a um colaborador específico para que ele faça o acompanhamento contínuo.  
 6. **Armazenamento no CRM**: Todas as informações do lead ficam registradas no CRM, permitindo a gestão e acompanhamento do status e da evolução da negociação.
 
----
+
 
 #### d) Contactar lead para agendamento da aula experimental:
 
@@ -124,10 +124,10 @@ _INSERIR FIGURA_
 2. **Navegação até o módulo de CRM**: Após o login, o usuário acessa a seção ou módulo de CRM, onde os leads são gerenciados.  
 3. **Acessar o cadastro do lead**: Dentro do módulo de CRM, o usuário seleciona a opção para acessar os dados do lead.  
 4. **Contactar o lead por telefone**: Fazer a ligação para o ajuste do agendamento da aula experimental.  
-   - Se o lead **aceita fazer a aula experimental**, ele é avisado da disponibilidade de dias e horários e, se possível para ele, agenda-se a aula.  
-   - Caso **não seja possível**, contatos posteriores serão feitos pelo acompanhante do lead designado previamente.
+- ** Se o lead **aceita fazer a aula experimental**, ele é avisado da disponibilidade de dias e horários e, se possível para ele, agenda-se a aula.  
+- ** Caso **não seja possível**, contatos posteriores serão feitos pelo acompanhante do lead designado previamente.
 
----
+
 
 ### 1.4.2 Diagramas de Fluxo de Processos (BPMN)
 
@@ -151,7 +151,7 @@ INSERIR IMAGEM
 
 Os gargalos mencionados pelos gestores da Escola de Música Tom Maior foram a respeito das dificuldades com professores no dia a dia e a ausência de estratégias de marketing e vendas. Assim, como oportunidade de melhoria, analisam a necessidade de implantar setores como marketing e comercial (equipe de vendas), além de ter uma metodologia própria de ensino.
 
----
+
 
 ### 1.4.4 Avaliação da Maturidade do Sistema de Informação
 
@@ -159,15 +159,13 @@ O sistema Emusys é fornecido pela **Valin Tecnologia LTDA**, com sede em Floria
 
 O site e os vídeos do canal no YouTube do sistema são de cunho comercial e **não trazem informações técnicas** sobre as linguagens de programação e o banco de dados utilizados. Foi feito contato com a equipe do sistema via e-mail, mas não houve retorno até a data de entrega desta etapa. Caso novas informações sejam obtidas, o conteúdo será atualizado.
 
----
 
-#### Capacidade de Armazenamento
+
+a)  Capacidade de Armazenamento
 
 Não há informações específicas no site sobre a capacidade exata de armazenamento. Sabe-se apenas que o sistema permite o armazenamento de materiais didáticos, conteúdos de aula e anotações dos professores.
 
----
-
-#### Funcionalidades
+b) Funcionalidades
 
 O Emusys é uma plataforma robusta e integrada, desenvolvida para otimizar a gestão escolar de maneira prática e eficiente. Suas principais funcionalidades incluem:
 
@@ -178,18 +176,14 @@ O Emusys é uma plataforma robusta e integrada, desenvolvida para otimizar a ges
 - **Portal educacional**: Acesso a materiais didáticos, anotações e videochamadas para aulas online.
 - **Relatórios e métricas**: Geração de análises financeiras, dados de matrículas, desempenho de alunos e professores.
 
----
-
-#### Integração com Outros Sistemas
+c) Integração com Outros Sistemas
 
 - WhatsApp (suporte e comunicação)
 - Boletos, cartão de crédito e Pix (cobrança de mensalidades)
 - Leitor biométrico e QR Code (controle de presença)
 - Assinatura digital de contratos
 
----
-
-#### Falhas e Dificuldades do Sistema de Informação
+d) Falhas e Dificuldades do Sistema de Informação
 
 - Sistema administrativo acessível apenas via computador;
 - Envio de materiais didáticos pelos professores só possível via versão web;
@@ -197,13 +191,11 @@ O Emusys é uma plataforma robusta e integrada, desenvolvida para otimizar a ges
 - Migração de dados de outros sistemas é manual;
 - Suporte ao cliente limitado ao horário comercial.
 
----
-
-#### Oportunidades de Melhoria
+e) Oportunidades de Melhoria
 
 - Desenvolver aplicativo administrativo para dispositivos móveis;
 - Criar ferramenta para migração automatizada de dados;
 - Expandir relatórios e dashboards com personalização e visualização intuitiva;
 - Ampliar o horário de suporte ao cliente (24/7);
 - Permitir o envio de materiais didáticos via aplicativo móvel.
-
+---
