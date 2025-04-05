@@ -133,19 +133,19 @@ A seguir, apresenta-se a análise SWOT da instituição:
 
 _a) Cadastrar aluno:_
 
-INSERIR IMAGEM
+![aluno](images/images/cadastro-aluno.png)
 
 _b) Cadastrar professor:_
 
-INSERIR IMAGEM
+![professor](images/images/cadastro-professor.png)
 
 _c) Cadastrar lead:_
 
-INSERIR IMAGEM
+![lead](images/images/cadastro-lead.png)
 
 _d) Contactar lead para agendamento da aula experimental:_
 
-INSERIR IMAGEM
+![contactarlead](images/images/ccontactar-lead.png)
 
 ### 1.4.3 Identificação de Gargalos e Oportunidades de Melhoria
 
