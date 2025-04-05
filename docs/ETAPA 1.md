@@ -79,7 +79,7 @@ Segundo Leite e Gasparotto (2022), essa análise permite que as empresas direcio
 Dessa forma, a Escola de Música Tom Maior pode utilizar essa abordagem para aprimorar sua gestão e fortalecer sua atuação no setor.
 A seguir, apresenta-se a análise SWOT da instituição:
 
-_INSERIR FIGURA_
+![swot](images/images/análise-swot.png)
 
 ## 1.4 Análise de Processos e Sistemas
 
