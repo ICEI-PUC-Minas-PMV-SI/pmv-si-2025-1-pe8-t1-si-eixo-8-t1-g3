@@ -1,8 +1,8 @@
 # 2 - Plano de Inteligência Competitiva (IC)
 
-## 2.1. Identificação de Necessidades de Inteligência Competitiva
+## 2.1 Identificação de Necessidades de Inteligência Competitiva
 
-### 2.1.1. Mapeamento das decisões críticas
+### 2.1.1 Mapeamento das decisões críticas
 
 As decisões críticas em uma empresa são aquelas que têm um impacto significativo no seu desempenho, futuro e ou sobrevivência, e que demandam uma análise cuidadosa e estratégica para serem tomadas. Na análise de decisões estratégicas que os gestores da escola de Música Tom Maior precisam tomar, destacam-se:
 
@@ -12,15 +12,15 @@ As decisões críticas em uma empresa são aquelas que têm um impacto significa
 - Aumentar o faturamento em 15 % comparado a 2024;
 - Analisar dados dos leads para verificar possibilidade de criação de turmas.
 
-### 2.1.2. Escolha de uma decisão-chave
+### 2.1.2 Escolha de uma decisão-chave
 
 O Key Intelligence Topic (KIT) definido para este projeto refere-se à permanência dos alunos matriculados, com ênfase na redução da evasão escolar, especialmente durante o período de férias. Essa decisão é considerada estratégica para a sustentabilidade da Escola de Música Tom Maior, pois impacta diretamente a previsibilidade de receita, o planejamento de turmas e professores, e a continuidade pedagógica dos alunos.
 
-### 2.1.3. Definição do KIT (Key Intelligence Topic)
+### 2.1.3 Definição do KIT (Key Intelligence Topic)
 
 O tema selecionado neste projeto, o KIT, é o estudo da evasão de alunos, com foco na tomada de decisão voltada à retenção dos estudantes, especialmente durante o período de férias. Essa questão é crucial para a sustentabilidade da instituição, pois permite identificar e solucionar problemas que levam ao abandono, verificando-se se estão diretamente relacionados à qualidade da prestação do serviço, à melhoria da experiência do aluno e, consequentemente, à sua permanência na escola. A decisão de manter os alunos matriculados exige apoio informacional sólido, fundamentado na análise de dados históricos — como frequência, horários de aulas e perfil dos estudantes. Com essas informações, torna-se possível identificar padrões e causas de desistência, como desmotivação, incompatibilidade de horários ou falta de identificação com o instrumento escolhido, possibilitando, assim, a formulação de ações estratégicas mais eficazes para fortalecer o vínculo dos alunos com a escola ao longo do ano.
 
-### 2.1.4. Formulação das KIQs (Key Intelligence Questions)
+### 2.1.4 Formulação das KIQs (Key Intelligence Questions)
 
 As Perguntas específicas para guiar a busca por informações estratégicas são:
 
@@ -33,7 +33,7 @@ As Perguntas específicas para guiar a busca por informações estratégicas sã
 - Existe um período(mês) do ano com maior evasão?
 - Há uma faixa de idade dos alunos em que há maior evasão (infantil/adulto/melhor idade)?
 
-### 2.1.5. Justificativa da relevância do KIT e das KIQs para a empresa
+### 2.1.5 Justificativa da relevância do KIT e das KIQs para a empresa
 
 A retenção de alunos, especialmente durante o período de férias, é essencial para a sustentabilidade financeira e o crescimento da Escola de Música Tom Maior. Para isso, o estudo das evasões se torna um KIT (Key Intelligence Topic) prioritário, pois permite identificar padrões e fatores que influenciam a interrupção dos cursos. As KIQs formuladas possibilitam uma análise aprofundada da taxa de presença, de desistências e sua relação com professores, da influência do horário das aulas e da escolha do tipo de aula, além de avaliar possíveis efeitos da recente mudança de endereço da escola. Com essas informações, a escola poderá desenvolver estratégias mais assertivas para reduzir a evasão e incentivar a continuidade dos estudos musicais.
 
@@ -139,7 +139,7 @@ Além da LGPD, destaca-se a norma internacional ISO/IEC 27001:2022, publicada pe
 
 Com base nessas regulamentações, futuramente, e considerando as necessidades específicas da escola em estudo, serão propostas diretrizes e procedimentos para garantir a proteção de dados, a segurança da informação e a conformidade contínua. Isso contribuirá para a redução de riscos jurídicos e operacionais, promovendo uma gestão mais segura e eficiente.
 
-### 2.7.1. Mapeamento de Normas e Regulamentações Aplicáveis
+### 2.7.1 Mapeamento de Normas e Regulamentações Aplicáveis
 
 A Escola de Música Tom Maior faz uso do sistema Emusys que tem uma política de privacidade que traz informações acerca da LGPD e da responsabilidade do contratado e contratante na coleta e uso dos dados. 
 
@@ -165,15 +165,16 @@ Os principais pontos da norma ISO/IEC 27001 a serem repassados aos gestores são
 - Conformidade legal: A adoção da ISO/IEC 27001 auxilia no cumprimento de regulamentos como a LGPD.
 - Certificação: Empresas que implementam e demonstram conformidade com a norma podem obter a certificação ISO/IEC 27001, aumentando sua credibilidade no mercado.
 
-### 2.7.2. Políticas de Proteção de Dados e Segurança da Informação
+### 2.7.2 Políticas de Proteção de Dados e Segurança da Informação
 
-A proteção de dados e a segurança da informação são fundamentais para mitigar riscos de vazamento, acessos indevidos e ataques cibernéticos. A adoção de diretrizes eficazes não apenas garante conformidade com normas como Lei Geral de Proteção de Dados (BRASIL, 2018) e a norma ISO/IEC 27001 (INTERNATIONAL ORGANIZATION FOR STANDARDIZATION, 2022), mas também preserva a confiabilidade dos sistemas e a privacidade dos usuários. Assim, após a análise dos gestores em relação às documentações acerca das políticas de privacidade e segurança da informação utilizadas pelo Emusys, será avaliada a necessidade de alguma orientação quanto a riscos ou se as especificações estão em conformidade com a LGPD e norma ISO/IEC 27001.
+A proteção de dados e a segurança da informação são fundamentais para mitigar riscos de vazamento, acessos indevidos e ataques cibernéticos.
+A adoção de diretrizes eficazes não apenas garante conformidade com normas como Lei Geral de Proteção de Dados (BRASIL, 2018) e a norma ISO/IEC 27001 (INTERNATIONAL ORGANIZATION FOR STANDARDIZATION, 2022), mas também preserva a confiabilidade dos sistemas e a privacidade dos usuários. Assim, após a análise dos gestores em relação às documentações acerca das políticas de privacidade e segurança da informação utilizadas pelo Emusys, será avaliada a necessidade de alguma orientação quanto a riscos ou se as especificações estão em conformidade com a LGPD e norma ISO/IEC 27001.
+
 Acerca da segurança da informação, destacam-se os tópicos de garantia da confidencialidade, autenticidade, integridade e disponibilidade dos dados, com o uso de criptografia, autenticação forte, controle de acesso baseado em papéis, assinaturas e certificados digitais, backup e recuperação, anonimização e mascaramento, eliminação segura de dados, testes de vulnerabilidade, monitoramento e auditorias, plano de recuperação de desastres, e outros.
-
 
 Os colaboradores da escola que manipulam dados devem passar por rigoroso treinamento, pois a segurança da informação depende não apenas de tecnologia, mas também do comportamento desses colaboradores. Para fortalecer essa camada de proteção, é essencial investir em treinamento contínuo, abordando temas como boas práticas de segurança, conscientização das leis e normas.
 
-### 2.7.3.  Importância de Compliance de TI e Segurança da Informação
+### 2.7.3  Importância de Compliance de TI e Segurança da Informação
 O compliance de TI e a segurança da informação são essenciais para garantir conformidade regulatória, proteção de dados e resiliência operacional. A adoção de diretrizes e princípios de segurança da informação fortalece a proteção contra acessos indevidos, vazamentos e ataques cibernéticos. Além disso, práticas como auditorias periódicas, testes de vulnerabilidade e treinamentos contínuos garantem que a organização esteja preparada para identificar e mitigar riscos com agilidade. Os gestores serão orientados de que no contexto da inteligência competitiva, investir em cibersegurança não é apenas uma obrigação legal, mas uma estratégia de diferenciação e crescimento sustentável. Empresas que protegem seus dados e sistemas ganham credibilidade no mercado, evitam perdas financeiras e impulsionam a inovação com segurança, consolidando-se como referências de confiança.
 
 
