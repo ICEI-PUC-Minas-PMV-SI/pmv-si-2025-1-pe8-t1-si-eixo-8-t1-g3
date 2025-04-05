@@ -131,5 +131,50 @@ Com a análise dessas informações espera-se entender padrões de evasão e/ou 
 - Correlação entre escolha do instrumento e continuidade do curso;
 - Estratégias para fidelização e retenção de alunos em períodos críticos.
 
+## 2.7 - Compliance de TI e Segurança da Informação
+
+Este tópico tem como objetivo identificar os aspectos legais e normativos relacionados ao uso da Tecnologia da Informação (TI) no processo de Inteligência Competitiva (IC), assegurando conformidade com as regulamentações vigentes. A principal legislação brasileira que trata da proteção de dados é a Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados (LGPD), que estabelece diretrizes para o tratamento de dados pessoais, visando garantir a privacidade e os direitos dos titulares (BRASIL, 2018). A aplicação da LGPD é supervisionada pela Agência Nacional de Proteção de Dados (ANPD), responsável por editar normas e fiscalizar o cumprimento da legislação no território nacional (BRASIL, [s.d.]).
+
+Além da LGPD, destaca-se a norma internacional ISO/IEC 27001:2022, publicada pela International Organization for Standardization (ISO), que define requisitos para a implementação de um sistema de gestão de segurança da informação. Essa norma visa garantir a confidencialidade, integridade e disponibilidade das informações nas organizações (INTERNATIONAL ORGANIZATION FOR STANDARDIZATION, 2022).
+
+Com base nessas regulamentações, futuramente, e considerando as necessidades específicas da escola em estudo, serão propostas diretrizes e procedimentos para garantir a proteção de dados, a segurança da informação e a conformidade contínua. Isso contribuirá para a redução de riscos jurídicos e operacionais, promovendo uma gestão mais segura e eficiente.
+
+### 2.7.1. Mapeamento de Normas e Regulamentações Aplicáveis
+
+A Escola de Música Tom Maior faz uso do sistema Emusys que tem uma política de privacidade que traz informações acerca da LGPD e da responsabilidade do contratado e contratante na coleta e uso dos dados. 
+
+A LGPD foi sancionada em 2018 e entrou em vigor em setembro de 2020. Ela estabelece regras sobre a coleta, armazenamento, processamento e compartilhamento de dados pessoais, tanto no ambiente digital quanto físico, com o objetivo de proteger a privacidade e os direitos dos titulares dos dados no Brasil. A LGPD impacta diretamente as estratégias de Inteligência Competitiva (IC), pois exige que a coleta e análise de dados sejam feitas de forma ética, transparente e segura (BRASIL, 2018).
+
+A seguir, os principais pontos de atenção em que a empresa deverá ser orientada em relação ao que consta na LGPD:
+
+- Abrangência: Aplica-se a qualquer empresa, organização ou entidade que processe dados pessoais no Brasil, independentemente do local da sede.
+- Dados pessoais: Informação que identifique ou possa identificar uma pessoa (ex.: nome, CPF, e-mail, endereço IP).
+- Dados sensíveis: Informações demandam proteção extra, como origem racial ou étnica, convicções religiosas, opiniões políticas e biometria.
+- Base legal para tratamento de dados: O tratamento de dados deve se enquadrar em uma das bases legais definidas pela lei, com o consentimento do titular, cumprimento de obrigação legal ou execução de contrato.
+- Direitos do titular dos dados: Garantia aos cidadãos o direito de acessar, corrigir, excluir e portar seus dados pessoais.
+- Segurança e proteção: Adoção de medidas de segurança para evitar vazamentos e acessos não autorizados.
+- Sanções: A Agência Nacional de Proteção de Dados (ANPD) pode aplicar multas que chegam a 2% do faturamento da empresa, limitadas a R$50 milhões por infração.
+
+Para garantir a proteção de dados e ativos digitais, a norma internacional ISO/IEC 27001 define os requisitos para um Sistema de Gestão de Segurança da Informação (SGSI).  Os gestores da escola serão orientados para verificarem nas documentações e contratos assinados com o Emusys se o sistema utiliza políticas para garantir a segurança do sistema e dos seus dados. (INTERNATIONAL ORGANIZATION FOR STANDARDIZATION, 2022).
+Os principais pontos da norma ISO/IEC 27001 a serem repassados aos gestores são: 
+ 
+- Gestão de riscos: Implementação de uma abordagem estruturada para identificar e tratar ameaças à segurança da informação.
+- Três pilares da segurança da informação: confidencialidade, integridade e disponibilidade dos dados.
+- Controles de segurança: A norma define mais de 100 controles de segurança, como criptografia, controle de acessos, backups, auditorias e monitoramento.
+- Ciclo PDCA (Plan, Do, Check, Act): A gestão de segurança da informação deve seguir um processo contínuo de planejamento, implementação, monitoramento e melhoria.
+- Conformidade legal: A adoção da ISO/IEC 27001 auxilia no cumprimento de regulamentos como a LGPD.
+- Certificação: Empresas que implementam e demonstram conformidade com a norma podem obter a certificação ISO/IEC 27001, aumentando sua credibilidade no mercado.
+
+### 2.7.2. Políticas de Proteção de Dados e Segurança da Informação
+
+A proteção de dados e a segurança da informação são fundamentais para mitigar riscos de vazamento, acessos indevidos e ataques cibernéticos. A adoção de diretrizes eficazes não apenas garante conformidade com normas como Lei Geral de Proteção de Dados (BRASIL, 2018) e a norma ISO/IEC 27001 (INTERNATIONAL ORGANIZATION FOR STANDARDIZATION, 2022), mas também preserva a confiabilidade dos sistemas e a privacidade dos usuários. Assim, após a análise dos gestores em relação às documentações acerca das políticas de privacidade e segurança da informação utilizadas pelo Emusys, será avaliada a necessidade de alguma orientação quanto a riscos ou se as especificações estão em conformidade com a LGPD e norma ISO/IEC 27001.
+Acerca da segurança da informação, destacam-se os tópicos de garantia da confidencialidade, autenticidade, integridade e disponibilidade dos dados, com o uso de criptografia, autenticação forte, controle de acesso baseado em papéis, assinaturas e certificados digitais, backup e recuperação, anonimização e mascaramento, eliminação segura de dados, testes de vulnerabilidade, monitoramento e auditorias, plano de recuperação de desastres, e outros.
+
+
+Os colaboradores da escola que manipulam dados devem passar por rigoroso treinamento, pois a segurança da informação depende não apenas de tecnologia, mas também do comportamento desses colaboradores. Para fortalecer essa camada de proteção, é essencial investir em treinamento contínuo, abordando temas como boas práticas de segurança, conscientização das leis e normas.
+
+### 2.7.3.  Importância de Compliance de TI e Segurança da Informação
+O compliance de TI e a segurança da informação são essenciais para garantir conformidade regulatória, proteção de dados e resiliência operacional. A adoção de diretrizes e princípios de segurança da informação fortalece a proteção contra acessos indevidos, vazamentos e ataques cibernéticos. Além disso, práticas como auditorias periódicas, testes de vulnerabilidade e treinamentos contínuos garantem que a organização esteja preparada para identificar e mitigar riscos com agilidade. Os gestores serão orientados de que no contexto da inteligência competitiva, investir em cibersegurança não é apenas uma obrigação legal, mas uma estratégia de diferenciação e crescimento sustentável. Empresas que protegem seus dados e sistemas ganham credibilidade no mercado, evitam perdas financeiras e impulsionam a inovação com segurança, consolidando-se como referências de confiança.
+
 
 ---
