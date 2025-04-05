@@ -22,3 +22,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Profa. Dra. Simone Fernandes Queiroz
 
+# Etapas do Projeto
+
+| ETAPA    | ATIVIDADE    |
+|----------|--------------|
+| Etapa 1  |              | 
+| Etapa 2  |              |
+
