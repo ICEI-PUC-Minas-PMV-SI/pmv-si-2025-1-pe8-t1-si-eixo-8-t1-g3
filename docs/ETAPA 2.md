@@ -182,6 +182,28 @@ Os dados serão extraídos periodicamente da plataforma Emusys por meio da funci
 
 Com esse plano, garantimos a coleta eficiente, segurança e integridade dos dados, facilitando a análise no Power BI e contribuindo para a tomada de decisão baseada em dados.
 
+## 2.4 - Análise de Dados e Registro de Informações
+
+Este relatório tem como objetivo transformar os dados coletados sobre os alunos da Escola de Música Tom Maior em insights acionáveis que auxiliem na compreensão e redução da evasão escolar.
+
+**Ferramenta Utilizada**: A análise foi realizada utilizando o Power BI. Essa ferramenta foi escolhida devido à sua capacidade de visualização interativa, facilidade de integração com bases de dados e possibilidade de criar dashboards dinâmicos que facilitam a extração de insights relevantes. Além disso, o Power BI permite a construção de análises exploratórias e preditivas de maneira eficiente, otimizando o processo de tomada de decisão.
+
+**Estratégia de Análise**: Para explorar os dados e responder às KIQs, foram utilizadas as seguintes abordagens:
+
+-**Análise de Tendências**: Essa abordagem foi escolhida para identificar padrões de evasão ao longo do tempo.Compreender os períodos em que há maior número de desistências possibilita a implementação de ações preventivas, como campanhas de engajamento em momentos críticos.
+-**Segmentação de Alunos**: A segmentação foi utilizada para classificar os alunos com base em diferentes características, como idade, instrumento escolhido, professor e horários das aulas. Essa técnica permite entender se determinados grupos apresentam maior propensão à evasão, possibilitando estratégias direcionadas para cada perfil de aluno.
+-**Análise Preditiva**: A modelagem preditiva foi aplicada para avaliar a relação entre a taxa de presença dos alunos e a probabilidade de evasão. Identificar padrões de comportamento ajuda a antecipar casos de abandono e permite que a escola intervenha antes que o aluno desista definitivamente.
+
+**Geração de Insights**: Para a geração de insights, inicialmente foi realizado um tratamento dos dados brutos, garantindo sua padronização e consistência. Foram removidos valores duplicados, corrigidos formatos incorretos e preenchidos dados ausentes quando possível.
+Após a limpeza, os dados foram transformados em métricas e indicadores visuais no Power BI, permitindo uma análise mais aprofundada. As principais descobertas incluem:
+
+-**Influência da didática do professor**: Ao cruzar os índices de evasão com avaliações de professores, identificou-se que turmas com feedbacks negativos apresentam maior taxa de desistência.
+-**Impacto do Horário das Aulas**: Análises indicam que determinados horários, especialmente os noturnos, possuem maior índice de evasão, possivelmente devido a incompatibilidade com outras atividades dos alunos.
+-**Relação entre Instrumento e Evasão**: Certos instrumentos apresentaram taxas de desistência mais elevadas, sugerindo desafios específicos de aprendizado ou falta de interesse contínuo.
+-**Taxa de Presença como Indicador de Evasão**: A correlação entre frequência nas aulas e desistência foi significativa, indicando que alunos com baixa presença têm maior probabilidade de abandonar o curso.
+
+Esses insights foram fundamentais para compreender os fatores que influenciam a evasão e fornecer subsídios para ações estratégicas de retenção dos alunos.
+
 ## 2.6 - Avaliação do Processo de Inteligência Competitiva 
 
 O objetivo desse tópico é analisar criticamente a eficiência da abordagem utilizada e identificar melhorias.  
