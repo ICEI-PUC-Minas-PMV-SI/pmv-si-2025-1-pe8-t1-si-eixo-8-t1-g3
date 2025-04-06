@@ -6,7 +6,8 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto do Eixo 8 destina-se a selecionar uma empresa para estudo e realizar uma análise de seu mercado de atuação, processos de negócio e seus sistemas. A opção de escolha para o nosso projeto foi a Escola de Música Tom Maior, localizada em Campo Grande - MS, que é uma instituição experiente no mercado musical e tem como missão fornecer serviços de alta qualidade na área.
+
 
 ## Integrantes
 
