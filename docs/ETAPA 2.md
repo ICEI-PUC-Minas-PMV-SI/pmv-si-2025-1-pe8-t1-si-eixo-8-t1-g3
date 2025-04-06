@@ -215,6 +215,63 @@ Esses insights foram fundamentais para compreender os fatores que influenciam a 
 
 A análise dos dados revelou informações valiosas para a Escola de Música Tom Maior. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
 
+## 2.5 - Disseminação e Utilização das Informações
+
+Para garantir que as informações geradas no projeto sejam acessíveis e compreensíveis para a tomada de decisão, a estratégia de disseminação e utilização das informações é crucial.
+
+### Formatos de Apresentação
+
+*   **Dashboards Interativos:** Painéis interativos são a principal forma de apresentação, oferecendo uma visão geral das métricas-chave relacionadas à retenção de alunos. Isso inclui:
+    *   Taxas gerais de evasão.
+    *   Taxas de retenção durante os períodos de férias.
+    *   Tendências de frequência.
+    *   Correlações identificadas por meio das KIQs (por exemplo, taxas de evasão por instrumento, professor ou horário das aulas).
+*   **Segmentação de Dados:** Os dashboards permitirão que os usuários naveguem para segmentos específicos dos dados, facilitando a análise detalhada.
+
+### Ferramentas de Visualização e Comunicação de Dados
+
+*   **Power BI:** A ferramenta escolhida para a visualização e comunicação dos dados é o Power BI, devido à sua capacidade de criar dashboards interativos e relatórios personalizados.
+    *   **Exportação de Dados:** Os dados serão exportados do Emusys, possivelmente em formatos como planilhas Excel, que podem ser importadas para o Power BI. A integração direta do Banco de Dados Emusys ao Power BI não será possível neste momento.
+
+### Recursos do Power BI para Acessibilidade e Utilização
+
+*   **Visualizações Interativas:**
+    *   Permitem que os usuários explorem os dados e respondam às suas próprias perguntas.
+    *   Os painéis terão filtros para diferentes períodos de tempo ou dados demográficos dos alunos.
+*   **Recursos de Compartilhamento:**
+    *   Facilitam a distribuição de painéis e relatórios para as partes interessadas relevantes (Diretor da Escola, Professores, Equipe Administrativa).
+    *   Acessíveis por meio de navegadores da web ou do aplicativo móvel do Power BI, garantindo que as informações estejam disponíveis quando necessário.
+
+### Garantia da Aplicabilidade
+
+*   **Processos Decisórios:** Certificar-se de que os insights gerados serão utilizados nos processos decisórios da empresa.
+*   **Teste de Eficiência:** Esta etapa serve como um teste para avaliar a eficiência da disseminação de informações antes da implementação de um sistema completo.
+
+### Definição dos Destinatários das Informações
+
+*   Tomadores de decisão.
+*   Gestores.
+*   Equipe administrativa.
+*   Professores.
+
+### Formatos de Apresentação dos Insights
+
+*   Relatórios detalhados.
+*   Dashboards interativos.
+*   Apresentações executivas (se necessário).
+*   Newsletters internas (para comunicação geral).
+
+### Ferramentas para Disseminação da Informação
+
+*   Power BI (principal).
+*   Intranet corporativa (para acesso centralizado).
+
+### Critérios para Garantir o Acesso no Momento Certo
+
+*   **Notificações:** Envio de notificações automáticas quando os dashboards são atualizados.
+*   **Treinamento:** Sessões de treinamento para garantir que os usuários saibam como acessar e utilizar os dashboards.
+*   **Feedback:** Coleta contínua de feedback para ajustar e melhorar a disseminação das informações.
+
 ## 2.6 - Avaliação do Processo de Inteligência Competitiva 
 
 O objetivo desse tópico é analisar criticamente a eficiência da abordagem utilizada e identificar melhorias.  
