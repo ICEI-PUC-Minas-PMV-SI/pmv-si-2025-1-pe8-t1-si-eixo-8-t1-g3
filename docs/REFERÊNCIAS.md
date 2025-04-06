@@ -5,10 +5,15 @@ BRASIL. Instituto Brasileiro de Geografia e Estatística. Pesquisa Nacional por 
 BRASIL. Lei nº 13.709, de 14 de agosto de 2018. Dispõe sobre a proteção de dados pessoais e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet). Diário Oficial da União: seção 1, Brasília, DF, 15 ago. 2018. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm. Acesso em: 5 abr. 2025.
 
 BRASIL. Agência Nacional de Proteção de Dados (ANPD). Página institucional da ANPD – Órgão responsável pela regulamentação da LGPD no Brasil. Brasília, DF: ANPD, [s.d.]. Disponível em: https://www.gov.br/anpd/pt-br. Acesso em: 5 abr. 2025.
+
 CANAL YOUTUBE EMUSYS. Conheça a agenda simples e intuitiva da plataforma Emusys. Disponível em: https://www.youtube.com/watch?v=PjNLbHY19fk&pp=ygUGZW11c3lz. Acesso em: fev. 2025.
+
 CANAL YOUTUBE EMUSYS. Explicando o Emusys por Rosangela Haydem. Disponível em: https://www.youtube.com/watch?v=5-rIXiOXAeU&pp=ygUGZW11c3lz. Acesso em: fev. 2025.
+
 CANAL YOUTUBE EMUSYS. Sua escola de música no próximo nível. Disponível em: https://www.youtube.com/watch?v=DdOnt3bhU9k&pp=ygUGZW11c3lz. Acesso em: fev. 2025.
+
 CANAL YOUTUBE EMUSYS. Webinar Gestão de Alto Nível para Escolas de Música. Disponível em: https://www.youtube.com/watch?v=eP293DCP0_E&pp=ygUGZW11c3lz. Acesso em: fev. 2025.
+
 EMUSYS. Soluções para escolas de música. 2025. Disponível em: https://emusys.com.br/#solutionSection. Acesso em: 1 mar. 2025.
 
 ESCOLA DE MÚSICA TOM MAIOR. Sítio oficial. Disponível em: https://escolademusicatommaior.com.br. Acesso em: fev. 2025.
