@@ -182,6 +182,27 @@ Os dados serão extraídos periodicamente da plataforma Emusys por meio da funci
 
 Com esse plano, garantimos a coleta eficiente, segurança e integridade dos dados, facilitando a análise no Power BI e contribuindo para a tomada de decisão baseada em dados.
 
+## 2.6 - Avaliação do Processo de Inteligência Competitiva 
+
+O objetivo desse tópico é analisar criticamente a eficiência da abordagem utilizada e identificar melhorias.  
+
+### 2.6.1. Revisão das etapas anteriores
+
+As informações relacionadas nas etapas anteriores serão suficientes para respondermos as questões referentes à evasão de alunos. No entanto, após reunião com o responsável pela empresa verificou-se que alguns dados que seriam importantes nesse estudo não são coletados, como o real porquê da saída dos alunos, o que seria de grande importância para fazermos correlações com o real motivo das evasões.
+
+O processo será eficiente se o acesso aos dados for facilitado como tem sido até então, favorecendo as análises e as atualizações deles ao longo dos meses.
+
+### 2.6.2. Coleta de feedback
+
+ 	O feedback dos gestores da escola poderá ser feito de forma contínua com a implementação das análises, por meio de reuniões periódicas, para que sejam atendidas todas as necessidades da empresa.  Até o presente momento o trabalho sugerido foi bem aceito pelos gestores, que acreditam que tais informações serão importantes no processo de tomada de decisão acerca da necessidade de retenção de alunos.
+
+### 2.6.3. Ajustes e recomendações
+
+Para o ajuste de melhorias nos relatórios, há que se sugerir aos gestores a necessidade de treinamento dos colaboradores para uma coleta de dados mais eficiente. O colaborador deverá obter informações importantes como por exemplo o real motivo da saída dos alunos. Será sugerida também a organização de pesquisa de satisfação em relação a professores e sua didática, instalações e localização da escola, entre outros. Além disso, o contato com leads deve ser frequente na tentativa de trazer mais alunos para a escola, com a necessidade de uma equipe de marketing trabalhando nesse contexto. 
+
+Assim, teremos dados extras para que os relatórios de Power BI sejam diversificados e tragam mais informações relevantes para as tomadas de decisão. 
+
+
 ## 2.7 - Compliance de TI e Segurança da Informação
 
 Este tópico tem como objetivo identificar os aspectos legais e normativos relacionados ao uso da Tecnologia da Informação (TI) no processo de Inteligência Competitiva (IC), assegurando conformidade com as regulamentações vigentes. A principal legislação brasileira que trata da proteção de dados é a Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados (LGPD), que estabelece diretrizes para o tratamento de dados pessoais, visando garantir a privacidade e os direitos dos titulares (BRASIL, 2018). A aplicação da LGPD é supervisionada pela Agência Nacional de Proteção de Dados (ANPD), responsável por editar normas e fiscalizar o cumprimento da legislação no território nacional (BRASIL, [s.d.]).
