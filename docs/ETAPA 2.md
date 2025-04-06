@@ -194,7 +194,7 @@ O processo será eficiente se o acesso aos dados for facilitado como tem sido at
 
 ### 2.6.2. Coleta de feedback
 
- 	O feedback dos gestores da escola poderá ser feito de forma contínua com a implementação das análises, por meio de reuniões periódicas, para que sejam atendidas todas as necessidades da empresa.  Até o presente momento o trabalho sugerido foi bem aceito pelos gestores, que acreditam que tais informações serão importantes no processo de tomada de decisão acerca da necessidade de retenção de alunos.
+O feedback dos gestores da escola poderá ser feito de forma contínua com a implementação das análises, por meio de reuniões periódicas, para que sejam atendidas todas as necessidades da empresa.  Até o presente momento o trabalho sugerido foi bem aceito pelos gestores, que acreditam que tais informações serão importantes no processo de tomada de decisão acerca da necessidade de retenção de alunos.
 
 ### 2.6.3. Ajustes e recomendações
 
