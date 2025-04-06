@@ -214,6 +214,27 @@ Esses insights serão fundamentais para compreender os fatores que influenciam a
 
 A análise dos dados revelou informações valiosas para a Escola de Música Tom Maior. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
 
+## 2.5 - Disseminação e Utilização das Informações
+
+Esta seção do trabalho tem como finalidade apresentar ferramentas que contribuam para a disseminação eficiente das informações geradas ao longo da análise, assegurando que os dados convertidos em insights cheguem de forma clara, acessível e no tempo adequado aos responsáveis pela tomada de decisão. A escolha das ferramentas será justificada com base em sua capacidade de facilitar a visualização dos resultados, promover o entendimento por diferentes perfis de usuários e apoiar decisões estratégicas alinhadas aos objetivos da instituição.  Queria diminuir a padronização no início dos itens, e tirar a palavra tópico, muito repetida.
+
+### 2.5.1. Formato de apresentação
+
+Para a apresentação das informações serão utilizados painéis interativos (dashboards) que forneçam uma visão geral de alto nível das métricas chave relacionadas à retenção de alunos. Como exemplo dessas métricas  destacam-se taxas gerais de evasão, taxas de retenção durante os períodos de férias, tendências de frequência e, potencialmente, as correlações identificadas por meio das KIQs (por exemplo, taxas de evasão por tipo de aula, professor ou horário das aulas). Esses painéis podem permitir que os usuários naveguem para segmentos específicos dos dados.
+
+### 2.5.2. Escolha de ferramentas
+
+A ferramenta escolhida e que será utilizada é o Power BI. Para isso, será necessária a exportação de dados do Emusys, potencialmente em formatos como planilhas Excel, que podem ser importadas para o Power BI, visto que não será possível a integração direta do banco de dados do Emusys ao Power BI.
+
+### 2.5.3. Garantia da Aplicabilidade
+
+O Power BI oferece recursos que podem aprimorar a acessibilidade e a utilização dos insights:
+
+*   **Visualizações Interativas:** Permitem que os usuários explorem os dados e respondam às suas próprias perguntas. Por exemplo, um painel pode ter filtros para diferentes períodos de tempo ou dados demográficos dos alunos.
+
+*   **Recursos de Compartilhamento:** Facilitam a distribuição de painéis e relatórios para as partes interessadas relevantes (diretor da escola, professores, equipe administrativa). Eles podem ser acessados por meio de navegadores da web ou do aplicativo móvel do Power BI, garantindo que as informações estejam disponíveis quando necessário.
+
+
 
 ## 2.6 - Avaliação do Processo de Inteligência Competitiva 
 
