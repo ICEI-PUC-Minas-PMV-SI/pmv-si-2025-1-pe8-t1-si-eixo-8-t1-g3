@@ -210,7 +210,7 @@ Após a limpeza, os dados serão transformados em métricas e indicadores visuai
 
 Esses insights serão fundamentais para compreender os fatores que influenciam a evasão e fornecer subsídios para ações estratégicas de retenção dos alunos.
 
-### 2.4.4. Conclusão:
+### 2.4.4. Conclusão
 
 A análise dos dados revelou informações valiosas para a Escola de Música Tom Maior. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
 
