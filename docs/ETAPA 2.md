@@ -204,6 +204,10 @@ Após a limpeza, os dados foram transformados em métricas e indicadores visuais
 
 Esses insights foram fundamentais para compreender os fatores que influenciam a evasão e fornecer subsídios para ações estratégicas de retenção dos alunos.
 
+###Conclusão:
+
+A análise dos dados revelou informações valiosas para a Escola de Música Tom Maior. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
+
 ## 2.6 - Avaliação do Processo de Inteligência Competitiva 
 
 O objetivo desse tópico é analisar criticamente a eficiência da abordagem utilizada e identificar melhorias.  
