@@ -186,15 +186,22 @@ Com esse plano, garantimos a coleta eficiente, segurança e integridade dos dado
 
 Este relatório tem como objetivo transformar os dados coletados sobre os alunos da Escola de Música Tom Maior em insights acionáveis que auxiliem na compreensão e redução da evasão escolar.
 
-**Ferramenta Utilizada**: A análise foi realizada utilizando o Power BI. Essa ferramenta foi escolhida devido à sua capacidade de visualização interativa, facilidade de integração com bases de dados e possibilidade de criar dashboards dinâmicos que facilitam a extração de insights relevantes. Além disso, o Power BI permite a construção de análises exploratórias e preditivas de maneira eficiente, otimizando o processo de tomada de decisão.
+### Ferramenta Utilizada
 
-**Estratégia de Análise**: Para explorar os dados e responder às KIQs, foram utilizadas as seguintes abordagens:
+A análise foi realizada utilizando o Power BI. Essa ferramenta foi escolhida devido à sua capacidade de visualização interativa, facilidade de integração com bases de dados e possibilidade de criar dashboards dinâmicos que facilitam a extração de insights relevantes. Além disso, o Power BI permite a construção de análises exploratórias e preditivas de maneira eficiente, otimizando o processo de tomada de decisão.
+
+### Estratégia de Análise
+
+Para explorar os dados e responder às KIQs, foram utilizadas as seguintes abordagens:
 
 - **Análise de Tendências**: Essa abordagem foi escolhida para identificar padrões de evasão ao longo do tempo.Compreender os períodos em que há maior número de desistências possibilita a implementação de ações preventivas, como campanhas de engajamento em momentos críticos.
 - **Segmentação de Alunos**: A segmentação foi utilizada para classificar os alunos com base em diferentes características, como idade, instrumento escolhido, professor e horários das aulas. Essa técnica permite entender se determinados grupos apresentam maior propensão à evasão, possibilitando estratégias direcionadas para cada perfil de aluno.
 - **Análise Preditiva**: A modelagem preditiva foi aplicada para avaliar a relação entre a taxa de presença dos alunos e a probabilidade de evasão. Identificar padrões de comportamento ajuda a antecipar casos de abandono e permite que a escola intervenha antes que o aluno desista definitivamente.
 
-**Geração de Insights**: Para a geração de insights, inicialmente foi realizado um tratamento dos dados brutos, garantindo sua padronização e consistência. Foram removidos valores duplicados, corrigidos formatos incorretos e preenchidos dados ausentes quando possível.
+
+### Geração de Insights
+
+Para a geração de insights, inicialmente foi realizado um tratamento dos dados brutos, garantindo sua padronização e consistência. Foram removidos valores duplicados, corrigidos formatos incorretos e preenchidos dados ausentes quando possível.
 Após a limpeza, os dados foram transformados em métricas e indicadores visuais no Power BI, permitindo uma análise mais aprofundada. As principais descobertas incluem:
 
 - **Influência da didática do professor**: Ao cruzar os índices de evasão com avaliações de professores, identificou-se que turmas com feedbacks negativos apresentam maior taxa de desistência.
@@ -204,7 +211,7 @@ Após a limpeza, os dados foram transformados em métricas e indicadores visuais
 
 Esses insights foram fundamentais para compreender os fatores que influenciam a evasão e fornecer subsídios para ações estratégicas de retenção dos alunos.
 
-###Conclusão:
+### Conclusão
 
 A análise dos dados revelou informações valiosas para a Escola de Música Tom Maior. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
 
