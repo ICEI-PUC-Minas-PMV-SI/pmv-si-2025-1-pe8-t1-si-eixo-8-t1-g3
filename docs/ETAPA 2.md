@@ -197,10 +197,10 @@ Este relatório tem como objetivo transformar os dados coletados sobre os alunos
 **Geração de Insights**: Para a geração de insights, inicialmente foi realizado um tratamento dos dados brutos, garantindo sua padronização e consistência. Foram removidos valores duplicados, corrigidos formatos incorretos e preenchidos dados ausentes quando possível.
 Após a limpeza, os dados foram transformados em métricas e indicadores visuais no Power BI, permitindo uma análise mais aprofundada. As principais descobertas incluem:
 
--**Influência da didática do professor**: Ao cruzar os índices de evasão com avaliações de professores, identificou-se que turmas com feedbacks negativos apresentam maior taxa de desistência.
--**Impacto do Horário das Aulas**: Análises indicam que determinados horários, especialmente os noturnos, possuem maior índice de evasão, possivelmente devido a incompatibilidade com outras atividades dos alunos.
--**Relação entre Instrumento e Evasão**: Certos instrumentos apresentaram taxas de desistência mais elevadas, sugerindo desafios específicos de aprendizado ou falta de interesse contínuo.
--**Taxa de Presença como Indicador de Evasão**: A correlação entre frequência nas aulas e desistência foi significativa, indicando que alunos com baixa presença têm maior probabilidade de abandonar o curso.
+- **Influência da didática do professor**: Ao cruzar os índices de evasão com avaliações de professores, identificou-se que turmas com feedbacks negativos apresentam maior taxa de desistência.
+- **Impacto do Horário das Aulas**: Análises indicam que determinados horários, especialmente os noturnos, possuem maior índice de evasão, possivelmente devido a incompatibilidade com outras atividades dos alunos.
+- **Relação entre Instrumento e Evasão**: Certos instrumentos apresentaram taxas de desistência mais elevadas, sugerindo desafios específicos de aprendizado ou falta de interesse contínuo.
+- **Taxa de Presença como Indicador de Evasão**: A correlação entre frequência nas aulas e desistência foi significativa, indicando que alunos com baixa presença têm maior probabilidade de abandonar o curso.
 
 Esses insights foram fundamentais para compreender os fatores que influenciam a evasão e fornecer subsídios para ações estratégicas de retenção dos alunos.
 
