@@ -2,21 +2,21 @@
 
 ## 1.1 Introdução
 
-O projeto do Eixo 1 destina-se a selecionar uma empresa para estudo e realizar uma análise de seu mercado de atuação, processos de negócio e seus sistemas. A opção de escolha para o nosso projeto foi a **Escola de Música Tom Maior**, localizada em Campo Grande - MS, que é uma instituição experiente no mercado musical e tem como missão fornecer serviços de alta qualidade na área.
+O projeto do Eixo 1 destina-se a selecionar uma empresa para estudo e realizar uma análise de seu mercado de atuação, processos de negócio e seus sistemas. A opção de escolha para o nosso projeto foi uma **Escola de Música**, localizada em Campo Grande - MS, que é uma instituição experiente no mercado musical e tem como missão fornecer serviços de alta qualidade na área.
 
-A escolha pela Escola de Música Tom Maior se adequa ao perfil de empresa almejado para o projeto, sendo uma microempresa que já faz uso de um sistema de informação, mas não dispõe de relatórios para análises de todos os seus dados.  
+A escolha pela Escola de Música se adequa ao perfil de empresa almejado para o projeto, sendo uma microempresa que já faz uso de um sistema de informação, mas não dispõe de relatórios para análises de todos os seus dados.  
 O objetivo do projeto é implementar análises de dados relevantes para que os gestores da empresa possam identificar erros e acertos no negócio, além de melhor direcionar as tomadas de decisão com base nas informações levantadas.
 
 ## 1.2 Organização do Projeto
 
-### 1.2.1 Escola de Música Tom Maior
+### 1.2.1 Escola de Música 
 
-A Escola de Música Tom Maior, localizada no centro da cidade de Campo Grande - MS, é uma instituição com mais de 15 anos de experiência no mercado musical, que tem como missão fornecer serviços de alta qualidade na área. A empresa é classificada como microempresa e conta com espaço físico em uma casa comercial, com sete salas de aula e um número de 21 colaboradores, sendo 19 deles professores de música contratados como pessoa jurídica e um auxiliar administrativo contratado pela Consolidação das Leis do Trabalho (CLT). Atualmente a escola tem 133 alunos matriculados em 17 modalidades de aulas prestadas pela instituição.
+A Escola de Música, localizada no centro da cidade de Campo Grande - MS, é uma instituição com mais de 15 anos de experiência no mercado musical, que tem como missão fornecer serviços de alta qualidade na área. A empresa é classificada como microempresa e conta com espaço físico em uma casa comercial, com sete salas de aula e um número de 21 colaboradores, sendo 19 deles professores de música contratados como pessoa jurídica e um auxiliar administrativo contratado pela Consolidação das Leis do Trabalho (CLT). Atualmente a escola tem 133 alunos matriculados em 17 modalidades de aulas prestadas pela instituição.
 
 As aulas oferecidas são de diversos instrumentos, como acordeão, bateria, violão, piano, teclado, violino, viola caipira, ukulele, cavaquinho, guitarra, baixo, violoncelo, flauta transversal e saxofone, além de aulas de canto e de musicalização para crianças e bebês. Seu objetivo é proporcionar um ensino de música de qualidade, personalizado e eficiente.
 
 A escola faz uso do sistema de informação **Emusys**, uma plataforma de gestão totalmente direcionada para escolas de música, e que conta com serviços de gestão acadêmica, aplicativos para alunos e professores, aplicação administrativa e um portal educacional (EMUSYS, 2025).  
-O sistema Emusys foi contratado na maioria de suas funcionalidades pela Escola de Música Tom Maior, com a exceção das funcionalidades de emissão de nota fiscal, integração Keep on Playing, assinatura digital de contratos, controle de presença por biometria e integração para envio de SMS (Short Message Service) e alguns relatórios.  
+O sistema Emusys foi contratado na maioria de suas funcionalidades pela Escola de Música, com a exceção das funcionalidades de emissão de nota fiscal, integração Keep on Playing, assinatura digital de contratos, controle de presença por biometria e integração para envio de SMS (Short Message Service) e alguns relatórios.  
 
 Além destas, há também outras funcionalidades que são cobradas à parte da mensalidade do sistema (gerar boletos e Pix online, marcar presença por Quick Response Code (QR Code) e pagamento por recorrência).
 
@@ -28,7 +28,7 @@ O objetivo deste trabalho é implementar análises de dados relevantes para que 
 
 ### 1.3.1 Descrição do Segmento de Atuação da Empresa
 
-A Escola de Música Tom Maior atua no setor de **serviços educacionais e culturais**, enfrentando a concorrência de escolas maiores, como a Escola de Música da Universidade Federal de Mato Grosso do Sul (UFMS) e a Escola Carlos Gomes, ambas localizadas em Campo Grande - MS, além da crescente oferta de ensino musical à distância.
+A Escola de Música atua no setor de **serviços educacionais e culturais**, enfrentando a concorrência de escolas maiores, como a Escola de Música da Universidade Federal de Mato Grosso do Sul (UFMS) e a Escola Carlos Gomes, ambas localizadas em Campo Grande - MS, além da crescente oferta de ensino musical à distância.
 
 O segmento de atuação das escolas de música é voltado para o ensino e desenvolvimento de habilidades musicais em diversos estilos e instrumentos. Essas instituições oferecem programas que atendem desde iniciantes até músicos avançados, com foco em teoria musical, técnica instrumental, canto e até composição.  
 
@@ -71,12 +71,12 @@ A constante atualização dos métodos de ensino, utilizando tecnologias e plata
 - Parcerias com escolas e empresas  
 - Marketing de conteúdo e redes sociais  
 
-### 1.3.3 Análise SWOT da Escola de Música Tom Maior
+### 1.3.3 Análise SWOT da Escola de Música 
 
 A **análise SWOT** (Strengths, Weaknesses, Opportunities and Threats) é uma ferramenta utilizada para identificar os pontos fortes, fraquezas, oportunidades e ameaças de uma organização, possibilitando uma visão estratégica para seu crescimento.
 
 Segundo Leite e Gasparotto (2022), essa análise permite que as empresas direcionem melhorias e mitiguem riscos, tornando-se mais eficientes e competitivas no mercado.  
-Dessa forma, a Escola de Música Tom Maior pode utilizar essa abordagem para aprimorar sua gestão e fortalecer sua atuação no setor.
+Dessa forma, a Escola de Música pode utilizar essa abordagem para aprimorar sua gestão e fortalecer sua atuação no setor.
 A seguir, apresenta-se a análise SWOT da instituição:
 
 ![swot](images/images/análise-swot.png)
@@ -149,7 +149,7 @@ _d) Contactar lead para agendamento da aula experimental:_
 
 ### 1.4.3 Identificação de Gargalos e Oportunidades de Melhoria
 
-Os gargalos mencionados pelos gestores da Escola de Música Tom Maior foram a respeito das dificuldades com professores no dia a dia e a ausência de estratégias de marketing e vendas. Assim, como oportunidade de melhoria, analisam a necessidade de implantar setores como marketing e comercial (equipe de vendas), além de ter uma metodologia própria de ensino.
+Os gargalos mencionados pelos gestores da Escola de Música foram a respeito das dificuldades com professores no dia a dia e a ausência de estratégias de marketing e vendas. Assim, como oportunidade de melhoria, analisam a necessidade de implantar setores como marketing e comercial (equipe de vendas), além de ter uma metodologia própria de ensino.
 
 
 
