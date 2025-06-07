@@ -1,4 +1,4 @@
-# Consultoria de TI para a Escola de Música Tom Maior
+# Consultoria de TI para uma Escola de Música 
 
 `CURSO: Sistemas de Informação`
 
@@ -6,7 +6,7 @@
 
 `SEMESTRE: 8º`
 
-O projeto do Eixo 8 destina-se a selecionar uma empresa para estudo e realizar uma análise de seu mercado de atuação, processos de negócio e seus sistemas. A opção de escolha para o nosso projeto foi a Escola de Música Tom Maior, localizada em Campo Grande - MS, que é uma instituição experiente no mercado musical e tem como missão fornecer serviços de alta qualidade na área.
+O projeto do Eixo 8 destina-se a selecionar uma empresa para estudo e realizar uma análise de seu mercado de atuação, processos de negócio e seus sistemas. A opção de escolha para o nosso projeto foi uma Escola de Música, localizada em Campo Grande - MS, que é uma instituição experiente no mercado musical e tem como missão fornecer serviços de alta qualidade na área.
 
 
 ## Integrantes
