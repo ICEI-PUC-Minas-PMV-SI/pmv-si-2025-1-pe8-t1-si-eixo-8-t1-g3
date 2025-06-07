@@ -184,7 +184,7 @@ Com esse plano, garantimos a coleta eficiente, segurança e integridade dos dado
 
 ## 2.4. Análise de Dados e Registro de Informações
 
-Este tópico tem como objetivo transformar os dados coletados sobre os alunos da Escola de Música Tom Maior em insights acionáveis que auxiliem na compreensão e redução da evasão escolar.
+Este tópico tem como objetivo transformar os dados coletados sobre os alunos da Escola de Música em insights acionáveis que auxiliem na compreensão e redução da evasão escolar.
 
 ### 2.4.1. Escolha das ferramentas de análise
 
