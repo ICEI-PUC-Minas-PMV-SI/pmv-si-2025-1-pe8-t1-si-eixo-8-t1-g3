@@ -4,7 +4,7 @@
 
 ### 2.1.1 Mapeamento das decisões críticas
 
-As decisões críticas em uma empresa são aquelas que têm um impacto significativo no seu desempenho, futuro e ou sobrevivência, e que demandam uma análise cuidadosa e estratégica para serem tomadas. Na análise de decisões estratégicas que os gestores da escola de Música Tom Maior precisam tomar, destacam-se:
+As decisões críticas em uma empresa são aquelas que têm um impacto significativo no seu desempenho, futuro e ou sobrevivência, e que demandam uma análise cuidadosa e estratégica para serem tomadas. Na análise de decisões estratégicas que os gestores da Escola de Música precisam tomar, destacam-se:
 
 - Estruturar um plano de marketing.;
 - Alcançar 200 alunos matriculados em 2025;
@@ -14,7 +14,7 @@ As decisões críticas em uma empresa são aquelas que têm um impacto significa
 
 ### 2.1.2 Escolha de uma decisão-chave
 
-O Key Intelligence Topic (KIT) definido para este projeto refere-se à permanência dos alunos matriculados, com ênfase na redução da evasão escolar, especialmente durante o período de férias. Essa decisão é considerada estratégica para a sustentabilidade da Escola de Música Tom Maior, pois impacta diretamente a previsibilidade de receita, o planejamento de turmas e professores, e a continuidade pedagógica dos alunos.
+O Key Intelligence Topic (KIT) definido para este projeto refere-se à permanência dos alunos matriculados, com ênfase na redução da evasão escolar, especialmente durante o período de férias. Essa decisão é considerada estratégica para a sustentabilidade da Escola de Música, pois impacta diretamente a previsibilidade de receita, o planejamento de turmas e professores, e a continuidade pedagógica dos alunos.
 
 ### 2.1.3 Definição do KIT (Key Intelligence Topic)
 
@@ -24,7 +24,7 @@ O tema selecionado neste projeto, o KIT, é o estudo da evasão de alunos, com f
 
 As Perguntas específicas para guiar a busca por informações estratégicas são:
 
-- Quais fatores influenciam a evasão ou interrupção dos alunos na Escola de Música Tom Maior?
+- Quais fatores influenciam a evasão ou interrupção dos alunos na Escola de Música?
 - Os alunos que interrompem os cursos voltam a se matricular? Em quanto tempo, em média?
 - Existe relação entre professor e evasão?
 - Existe relação entre o tipo de aula (instrumentais específicas ou de canto) e evasão?
@@ -35,14 +35,14 @@ As Perguntas específicas para guiar a busca por informações estratégicas sã
 
 ### 2.1.5 Justificativa da relevância do KIT e das KIQs para a empresa
 
-A retenção de alunos, especialmente durante o período de férias, é essencial para a sustentabilidade financeira e o crescimento da Escola de Música Tom Maior. Para isso, o estudo das evasões se torna um KIT (Key Intelligence Topic) prioritário, pois permite identificar padrões e fatores que influenciam a interrupção dos cursos. As KIQs formuladas possibilitam uma análise aprofundada da taxa de presença, de desistências e sua relação com professores, da influência do horário das aulas e da escolha do tipo de aula, além de avaliar possíveis efeitos da recente mudança de endereço da escola. Com essas informações, a escola poderá desenvolver estratégias mais assertivas para reduzir a evasão e incentivar a continuidade dos estudos musicais.
+A retenção de alunos, especialmente durante o período de férias, é essencial para a sustentabilidade financeira e o crescimento da Escola de Música. Para isso, o estudo das evasões se torna um KIT (Key Intelligence Topic) prioritário, pois permite identificar padrões e fatores que influenciam a interrupção dos cursos. As KIQs formuladas possibilitam uma análise aprofundada da taxa de presença, de desistências e sua relação com professores, da influência do horário das aulas e da escolha do tipo de aula, além de avaliar possíveis efeitos da recente mudança de endereço da escola. Com essas informações, a escola poderá desenvolver estratégias mais assertivas para reduzir a evasão e incentivar a continuidade dos estudos musicais.
 
-Ao compreender as razões que levam os alunos a interromperem suas aulas, a gestão da escola poderá adotar medidas preventivas e corretivas mais eficazes. Nesse sentido, se for identificado que determinados horários apresentam maior índice de desistência, ajustes na grade de horários poderão ser feitos para atender melhor à demanda. Da mesma forma, se houver correlação entre determinado professor e a evasão, pesquisas específicas poderão ser realizadas para identificar as causas dessa relação. Além disso, a análise dos períodos de maior desistência ajudará na criação de campanhas de retenção, como promoções ou eventos especiais no período de férias. Com uma abordagem baseada em dados, a Escola de Música Tom Maior poderá aumentar sua taxa de retenção, alcançar a meta de 200 alunos e impulsionar seu faturamento, garantindo um crescimento sustentável para 2025. 
+Ao compreender as razões que levam os alunos a interromperem suas aulas, a gestão da escola poderá adotar medidas preventivas e corretivas mais eficazes. Nesse sentido, se for identificado que determinados horários apresentam maior índice de desistência, ajustes na grade de horários poderão ser feitos para atender melhor à demanda. Da mesma forma, se houver correlação entre determinado professor e a evasão, pesquisas específicas poderão ser realizadas para identificar as causas dessa relação. Além disso, a análise dos períodos de maior desistência ajudará na criação de campanhas de retenção, como promoções ou eventos especiais no período de férias. Com uma abordagem baseada em dados, a Escola de Música poderá aumentar sua taxa de retenção, alcançar a meta de 200 alunos e impulsionar seu faturamento, garantindo um crescimento sustentável para 2025. 
 
 
 ## 2.2 Identificação das Necessidades de Informação
 
-O objetivo deste tópico é listar e categorizar os dados essenciais para responder às perguntas estratégicas relacionadas à retenção e evasão de alunos da Escola de Música Tom Maior. A análise visa fornecer insights para a melhoria dos processos acadêmicos, administrativos e estratégicos da instituição.
+O objetivo deste tópico é listar e categorizar os dados essenciais para responder às perguntas estratégicas relacionadas à retenção e evasão de alunos da Escola de Música. A análise visa fornecer insights para a melhoria dos processos acadêmicos, administrativos e estratégicos da instituição.
 
 ### 2.2.1 Mapeamento dos Tipos de Informação
 
@@ -212,7 +212,7 @@ Esses insights serão fundamentais para compreender os fatores que influenciam a
 
 ### 2.4.4. Conclusão
 
-A análise dos dados revelou informações valiosas para a Escola de Música Tom Maior. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
+A análise dos dados revelou informações valiosas para a Escola de Música. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
 
 ## 2.5 - Disseminação e Utilização das Informações
 
@@ -267,7 +267,7 @@ Com base nessas regulamentações, futuramente, e considerando as necessidades e
 
 ### 2.7.1 Mapeamento de Normas e Regulamentações Aplicáveis
 
-A Escola de Música Tom Maior faz uso do sistema Emusys que tem uma política de privacidade que traz informações acerca da LGPD e da responsabilidade do contratado e contratante na coleta e uso dos dados. 
+A Escola de Música faz uso do sistema Emusys que tem uma política de privacidade que traz informações acerca da LGPD e da responsabilidade do contratado e contratante na coleta e uso dos dados. 
 
 A LGPD foi sancionada em 2018 e entrou em vigor em setembro de 2020. Ela estabelece regras sobre a coleta, armazenamento, processamento e compartilhamento de dados pessoais, tanto no ambiente digital quanto físico, com o objetivo de proteger a privacidade e os direitos dos titulares dos dados no Brasil. A LGPD impacta diretamente as estratégias de Inteligência Competitiva (IC), pois exige que a coleta e análise de dados sejam feitas de forma ética, transparente e segura (BRASIL, 2018).
 
