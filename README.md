@@ -28,5 +28,6 @@ O projeto do Eixo 8 destina-se a selecionar uma empresa para estudo e realizar u
 | ETAPA    | ATIVIDADE    |
 |----------|--------------|
 | Etapa 1  |    [Apresentação do Projeto ](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%201.md)   | 
-| Etapa 2  |   [Plano de Inteligência Competitiva](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%202.md   )           |
+| Etapa 2  |   [Plano de Inteligência Competitiva](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%202.md   )    
+| Etapa 3  |   [Desenvolvimento de Soluções de SI](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo-8-t1-g3/blob/main/docs/ETAPA%203.md   )           |
 
