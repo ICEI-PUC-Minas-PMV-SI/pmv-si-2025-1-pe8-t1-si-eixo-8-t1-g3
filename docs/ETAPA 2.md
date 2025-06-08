@@ -1,4 +1,4 @@
-# 2 - Plano de Inteligência Competitiva (IC)
+# 2 Plano de Inteligência Competitiva (IC)
 
 ## 2.1 Identificação de Necessidades de Inteligência Competitiva
 
@@ -182,15 +182,15 @@ Os dados serão extraídos periodicamente da plataforma Emusys por meio da funci
 
 Com esse plano, garantimos a coleta eficiente, segurança e integridade dos dados, facilitando a análise no Power BI e contribuindo para a tomada de decisão baseada em dados.
 
-## 2.4. Análise de Dados e Registro de Informações
+## 2.4 Análise de Dados e Registro de Informações
 
 Este tópico tem como objetivo transformar os dados coletados sobre os alunos da Escola de Música em insights acionáveis que auxiliem na compreensão e redução da evasão escolar.
 
-### 2.4.1. Escolha das ferramentas de análise
+### 2.4.1 Escolha das ferramentas de análise
 
 A análise será realizada utilizando o Power BI. Essa ferramenta foi escolhida devido à sua capacidade de visualização interativa, facilidade de integração com bases de dados e possibilidade de criar dashboards dinâmicos que facilitam a extração de insights relevantes. Além disso, o Power BI permite a construção de análises exploratórias e preditivas de maneira eficiente, otimizando o processo de tomada de decisão.
 
-### 2.4.2. Estratégia de Análise
+### 2.4.2 Estratégia de Análise
 
 Para explorar os dados e responder às KIQs, serão utilizadas as seguintes abordagens:
 
@@ -198,7 +198,7 @@ Para explorar os dados e responder às KIQs, serão utilizadas as seguintes abor
 - **Segmentação de Alunos**: A segmentação será utilizada para classificar os alunos com base em diferentes características, como idade, instrumento escolhido, professor e horários das aulas. Essa técnica permite entender se determinados grupos apresentam maior propensão à evasão, possibilitando estratégias direcionadas para cada perfil de aluno.
 - **Análise Preditiva**: A modelagem preditiva foi aplicada para avaliar a relação entre a taxa de presença dos alunos e a probabilidade de evasão. Identificar padrões de comportamento ajuda a antecipar casos de abandono e permite que a escola intervenha antes que o aluno desista definitivamente.
 
-### 2.4.3. Geração de Insights
+### 2.4.3 Geração de Insights
 
 Para obtenção de informações significativas, inicialmente será realizado um tratamento dos dados brutos, garantindo sua padronização e consistência. Serão removidos valores duplicados, corrigidos os formatos incorretos e preenchidos os dados ausentes, quando possível.
 Após a limpeza, os dados serão transformados em métricas e indicadores visuais no Power BI, permitindo uma análise mais aprofundada. As principais descobertas incluem:
@@ -210,23 +210,19 @@ Após a limpeza, os dados serão transformados em métricas e indicadores visuai
 
 Esses insights serão fundamentais para compreender os fatores que influenciam a evasão e fornecer subsídios para ações estratégicas de retenção dos alunos.
 
-### 2.4.4. Conclusão
-
-A análise dos dados revelou informações valiosas para a Escola de Música. Com base nos insights obtidos, recomenda-se a implementação de medidas como maior flexibilização de horários, treinamentos para professores e acompanhamento pró-ativo dos alunos com baixa frequência para reduzir a evasão.
-
-## 2.5 - Disseminação e Utilização das Informações
+## 2.5 Disseminação e Utilização das Informações
 
 Esta seção do trabalho tem como finalidade apresentar ferramentas que contribuam para a disseminação eficiente das informações geradas ao longo da análise, assegurando que os dados convertidos em insights cheguem de forma clara, acessível e no tempo adequado aos responsáveis pela tomada de decisão. A escolha das ferramentas será justificada com base em sua capacidade de facilitar a visualização dos resultados, promover o entendimento por diferentes perfis de usuários e apoiar decisões estratégicas alinhadas aos objetivos da instituição.  Queria diminuir a padronização no início dos itens, e tirar a palavra tópico, muito repetida.
 
-### 2.5.1. Formato de apresentação
+### 2.5.1 Formato de apresentação
 
 Para a apresentação das informações serão utilizados painéis interativos (dashboards) que forneçam uma visão geral de alto nível das métricas chave relacionadas à retenção de alunos. Como exemplo dessas métricas  destacam-se taxas gerais de evasão, taxas de retenção durante os períodos de férias, tendências de frequência e, potencialmente, as correlações identificadas por meio das KIQs (por exemplo, taxas de evasão por tipo de aula, professor ou horário das aulas). Esses painéis podem permitir que os usuários naveguem para segmentos específicos dos dados.
 
-### 2.5.2. Escolha de ferramentas
+### 2.5.2 Escolha de ferramentas
 
 A ferramenta escolhida e que será utilizada é o Power BI. Para isso, será necessária a exportação de dados do Emusys, potencialmente em formatos como planilhas Excel, que podem ser importadas para o Power BI, visto que não será possível a integração direta do banco de dados do Emusys ao Power BI.
 
-### 2.5.3. Garantia da Aplicabilidade
+### 2.5.3 Garantia da Aplicabilidade
 
 O Power BI oferece recursos que podem aprimorar a acessibilidade e a utilização dos insights:
 
@@ -236,28 +232,28 @@ O Power BI oferece recursos que podem aprimorar a acessibilidade e a utilizaçã
 
 
 
-## 2.6 - Avaliação do Processo de Inteligência Competitiva 
+## 2.6 Avaliação do Processo de Inteligência Competitiva 
 
 O objetivo desse tópico é analisar criticamente a eficiência da abordagem utilizada e identificar melhorias.  
 
-### 2.6.1. Revisão das etapas anteriores
+### 2.6.1 Revisão das etapas anteriores
 
 As informações relacionadas nas etapas anteriores serão suficientes para respondermos as questões referentes à evasão de alunos. No entanto, após reunião com o responsável pela empresa verificou-se que alguns dados que seriam importantes nesse estudo não são coletados, como o real porquê da saída dos alunos, o que seria de grande importância para fazermos correlações com o real motivo das evasões.
 
 O processo será eficiente se o acesso aos dados for facilitado como tem sido até então, favorecendo as análises e as atualizações deles ao longo dos meses.
 
-### 2.6.2. Coleta de feedback
+### 2.6.2 Coleta de feedback
 
 O feedback dos gestores da escola poderá ser feito de forma contínua com a implementação das análises, por meio de reuniões periódicas, para que sejam atendidas todas as necessidades da empresa.  Até o presente momento o trabalho sugerido foi bem aceito pelos gestores, que acreditam que tais informações serão importantes no processo de tomada de decisão acerca da necessidade de retenção de alunos.
 
-### 2.6.3. Ajustes e recomendações
+### 2.6.3 Ajustes e recomendações
 
 Para o ajuste de melhorias nos relatórios, há que se sugerir aos gestores a necessidade de treinamento dos colaboradores para uma coleta de dados mais eficiente. O colaborador deverá obter informações importantes como por exemplo o real motivo da saída dos alunos. Será sugerida também a organização de pesquisa de satisfação em relação a professores e sua didática, instalações e localização da escola, entre outros. Além disso, o contato com leads deve ser frequente na tentativa de trazer mais alunos para a escola, com a necessidade de uma equipe de marketing trabalhando nesse contexto. 
 
 Assim, teremos dados extras para que os relatórios de Power BI sejam diversificados e tragam mais informações relevantes para as tomadas de decisão. 
 
 
-## 2.7 - Compliance de TI e Segurança da Informação
+## 2.7 Compliance de TI e Segurança da Informação
 
 Este tópico tem como objetivo identificar os aspectos legais e normativos relacionados ao uso da Tecnologia da Informação (TI) no processo de Inteligência Competitiva (IC), assegurando conformidade com as regulamentações vigentes. A principal legislação brasileira que trata da proteção de dados é a Lei nº 13.709/2018, conhecida como Lei Geral de Proteção de Dados (LGPD), que estabelece diretrizes para o tratamento de dados pessoais, visando garantir a privacidade e os direitos dos titulares (BRASIL, 2018). A aplicação da LGPD é supervisionada pela Agência Nacional de Proteção de Dados (ANPD), responsável por editar normas e fiscalizar o cumprimento da legislação no território nacional (BRASIL, [s.d.]).
 
