@@ -1,4 +1,4 @@
-# 1 - APRESENTAÇÃO DO PROJETO
+# 1 APRESENTAÇÃO DO PROJETO
 
 ## 1.1 Introdução
 
@@ -158,7 +158,6 @@ Os gargalos mencionados pelos gestores da Escola de Música foram a respeito das
 O sistema Emusys é fornecido pela **Valin Tecnologia LTDA**, com sede em Florianópolis - SC. Conforme mencionado previamente, o Emusys é uma plataforma de gestão totalmente direcionada para as escolas de música e é um sistema bem completo no que se propõe a fazer. Ele oferece **relatórios e dashboards** que podem ser exportados para Excel ou CSV.
 
 O site e os vídeos do canal no YouTube do sistema são de cunho comercial e **não trazem informações técnicas** sobre as linguagens de programação e o banco de dados utilizados. Foi feito contato com a equipe do sistema via e-mail, mas não houve retorno até a data de entrega desta etapa. Caso novas informações sejam obtidas, o conteúdo será atualizado.
-
 
 
 a)  Capacidade de Armazenamento
