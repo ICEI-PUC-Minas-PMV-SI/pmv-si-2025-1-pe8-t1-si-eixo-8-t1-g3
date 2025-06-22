@@ -16,8 +16,6 @@ CANAL YOUTUBE EMUSYS. Webinar Gestão de Alto Nível para Escolas de Música. Di
 
 EMUSYS. Soluções para escolas de música. 2025. Disponível em: https://emusys.com.br/#solutionSection. Acesso em: 1 mar. 2025.
 
-ESCOLA DE MÚSICA TOM MAIOR. Sítio oficial. Disponível em: https://escolademusicatommaior.com.br. Acesso em: fev. 2025.
-
 INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. ISO/IEC 27001:2022 – Information security, cybersecurity and privacy protection — Information security management systems — Requirements. Genebra: ISO, 2022. Disponível em: https://www.iso.org/standard/27001. Acesso em: 5 abr. 2025.
 
 INTERNATIONAL ORGANIZATION FOR STANDARDIZATION. Página oficial da ISO. Genebra: ISO, [s.d.]. Disponível em: https://www.iso.org. Acesso em: 5 abr. 2025.
