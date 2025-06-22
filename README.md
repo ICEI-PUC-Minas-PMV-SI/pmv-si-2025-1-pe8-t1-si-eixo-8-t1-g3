@@ -11,7 +11,7 @@ O projeto do Eixo 8 destina-se a selecionar uma empresa para estudo e realizar u
 
 ## Integrantes
 
-* Ana Laura Souza Rosa da Silva
+* Ana Laura Souza Rosa da Silva Nascimento
 * Denise Cristina de Souza
 * Guilherme Lima de Freitas
 * Jamesson Seren de Arruda
